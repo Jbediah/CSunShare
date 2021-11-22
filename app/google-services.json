@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61451497164",
+    "firebase_url": "https://csunshare-d2ea5.firebaseio.com",
+    "project_id": "csunshare-d2ea5",
+    "storage_bucket": "csunshare-d2ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61451497164:android:5d7331f9890cd1872f1c69",
+        "android_client_info": {
+          "package_name": "com.alpha.csunshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61451497164-2toakvom14d6i6gfceejtl0to01hjev9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALObqgaObY4wmcN8V4aNk_1oH4G87O4M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61451497164-2toakvom14d6i6gfceejtl0to01hjev9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
